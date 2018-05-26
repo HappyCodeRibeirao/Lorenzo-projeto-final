@@ -1,0 +1,20 @@
+1. Run/ Rayman
+2. Puzzle
+3. Armadura / Armas
+
+Descricao do Jogo
+ 
+Estilo Rayman
+o heroi é um supergenio  que viaja no tempo 
+
+Historia
+
+o heroi passa por varios tempos e enfrenta varios bosses e ganha armas e armaduras quando passa de nivel
+
+  1 tempo : época de jesus
+  2 tempo: chegado dos portugueses no Brasil
+  3 tempo : 2 guerra mundial
+  4 tempo: 3 guerra mundial
+  
+  cada tempo que ele passa ele ganha uma arma ou armadura do época
+  com alguns mas poucos puzzle
